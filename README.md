@@ -1,5 +1,8 @@
 # task_list
+```
+First, clone the project 
 
+```
 ## Project setup
 ```
 npm install
